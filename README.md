@@ -21,15 +21,15 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 ### Required Parts
 | Component | Description | Source |
 |------------|--------------|---------|
-1x | **Hotend** | SLM printed aluminum | [PCBWay Project Link](#) |
-1x | **Coldend** | SLM printed aluminum | [PCBWay Project Link](#) |
-1x | **Back Bracing** | (optional) stainless steel sheet metal | [PCBWay Project Link](#) |
-4x | **Heatbreak** | M6 (bottom) and Ø6mm cylindrical (top), Go-To: Creality Ender 3 S1 Heatbreak | Local supplier or: https://tinyurl.com/mtvx7jhu "Bimetal Throat" |
-4x | **Heater** | Ø6mm x 20mm lenght, preferably. 24V 50W | Local supplier or: https://tinyurl.com/3yftytx4 "50W 24V" |
-1x | **FAN** | 30x30x10mm Fan, preferably ball bearing and 24V | Local supplier or: https://tinyurl.com/23sj9bh6 "3010 24V" |
-1x | **Nozzle** | Standard RepRap M6 | Local supplier |
-   | **Screws** | M3-hex in 6-20mm lenght | Standard DIN / ISO |
-   | **pneumatic couplers** | For Bowden Setup only. MINI-IQS Ø4mm/M6 or POC4/M6 | Local or: https://tinyurl.com/53jsmu88 "POC 4-M6"|
+| 1x | **Hotend** | SLM printed aluminum | [PCBWay Project Link](#) |
+| 1x | **Coldend** | SLM printed aluminum | [PCBWay Project Link](#) |
+| 1x | **Back Bracing** | (optional) stainless steel sheet metal | [PCBWay Project Link](#) |
+| 4x | **Heatbreak** | M6 (bottom) and Ø6mm cylindrical (top), Go-To: Creality Ender 3 S1 Heatbreak | Local supplier or: https://tinyurl.com/mtvx7jhu "Bimetal Throat" |
+| 4x | **Heater** | Ø6mm x 20mm lenght, preferably. 24V 50W | Local supplier or: https://tinyurl.com/3yftytx4 "50W 24V" |
+| 1x | **FAN** | 30x30x10mm Fan, preferably ball bearing and 24V | Local supplier or: https://tinyurl.com/23sj9bh6 "3010 24V" |
+| 1x | **Nozzle** | Standard RepRap M6 | Local supplier |
+|   | **Screws** | M3-hex in 6-20mm lenght | Standard DIN / ISO |
+|   | **pneumatic couplers** | For Bowden Setup only. MINI-IQS Ø4mm/M6 or POC4/M6 | Local or: https://tinyurl.com/53jsmu88 "POC 4-M6"|
 ---
 
 ### Assembly Overview

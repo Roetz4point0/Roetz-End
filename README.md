@@ -19,7 +19,7 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 ## 🛠️ Build Guide (Quick Start)
 
 ### Required Parts
-| Component | Description | Source |
+|Quantity | Component | Description | Source |
 |------------|--------------|---------|
 | 1x | **Hotend** | SLM printed aluminum | [PCBWay Project Link](#) |
 | 1x | **Coldend** | SLM printed aluminum | [PCBWay Project Link](#) |

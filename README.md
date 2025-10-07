@@ -81,5 +81,5 @@ Post with `#RoetzEnd` or open a discussion under the [Issues tab](../../issues).
 
 ## 🧾 Files
 - [STEP + STL Models](./Files)
-- [BOM (Bill of Materials)](./Files/BOM.csv)
+- [BOM (Bill of Materials)](./BOM.csv)
 - [Build Guide PDF](./BuildGuide/Roetz-End_BuildGuide_v1.pdf)

@@ -26,12 +26,6 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 - No purge blocks, no priming towers, no poop.  
 - Flow rates up to **200 mm³/s** possible (depending on filament).
 
-
-
-
-
-
-
 ---
 
 ## 🛠️ Build Guide (Quick Start)
@@ -81,5 +75,5 @@ Post with `#RoetzEnd` or open a discussion under the [Issues tab](../../issues).
 
 ## 🧾 Files
 - [STEP + STL Models](./Files)
-- [BOM (Bill of Materials)](./BOM.csv)
+- [BOM (Bill of Materials)](./BuildGuide/BOM.csv)
 - [Build Guide PDF](./BuildGuide/BuildManual_v0.9-BETA.pdf)

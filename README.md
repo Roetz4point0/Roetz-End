@@ -17,7 +17,7 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 
 
 🎥 Full context, demonstration and build information:  
-👉 [YouTube Release Video]([https://youtu.be/6pM_ltAM7_s])
+👉 [YouTube Release Video](https://youtu.be/6pM_ltAM7_s)
 
 ---
 

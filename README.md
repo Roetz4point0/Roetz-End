@@ -53,7 +53,7 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 6. Marry Hot- and Coldend. Make sure it seats properly and torque down the 3 screws to close the flexure.
 
 
-📘 Detailed assembly PDF: [BuildGuide/Roetz-End_BuildGuide_v1.pdf](./BuildGuide/Roetz-End_BuildGuide_v1.pdf)
+📘 Detailed assembly PDF: [BuildGuide/BuildManual_v0.9-Beta.pdf](./BuildGuide/BuildManual_v0.9-BETA.pdf)
 
 ---
 

@@ -74,6 +74,6 @@ Post with `#RoetzEnd` or open a discussion under the [Issues tab](../../issues).
 ---
 
 ## 🧾 Files
-- [STEP + STL Models](./Files)
+- [STL Models](./Files)
 - [BOM (Bill of Materials)](./BuildGuide/BOM.csv)
 - [Build Guide PDF](./BuildGuide/BuildManual_v0.9-BETA.pdf)

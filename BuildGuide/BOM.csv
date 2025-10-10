@@ -1,7 +1,7 @@
 Position,Component,Quantity,Material,Specification,Source
-1,Hotend Body,1,Aluminum (SLM printed),"R4 - PIE","PCBWAY, More in the BuildGuide"
-2,Coldend Body,1,Aluminum (SLM printed),"R4 Coldend","PCBWAY, More in the BuildGuide"
-3,Back Bracing **(optional)**,1,Stainless Steel,"Sheet metal 1mm, for rigidity","PCBWAY, More in the BuildGuide"
+1,Hotend Body,1,Aluminum (SLM printed),"R4 - PIE","Online SLM manufacturer, read the buildGuide"
+2,Coldend Body,1,Aluminum (SLM printed),"R4 Coldend","Online SLM manufacturer, read the buildGuide"
+3,Back Bracing **(optional)**,1,Stainless Steel,"Sheet metal 1mm, for rigidity","Online sheet metal manufacturer, read the buildGuide"
 4,Heatbreak,4,Bimetal,"M6 thread bottom / Ø6mm top","https://tinyurl.com/mtvx7jhu"
 5,Heater Cartridge,4,–,"Ø6x20mm, 24V 50W","https://tinyurl.com/3yftytx4"
 6,Thermistor,1,–,"NTC 100K (B3950)","Local supplier"
@@ -10,5 +10,6 @@ Position,Component,Quantity,Material,Specification,Source
 9,Screws,–,Steel,"M3 hex, 6–20mm","DIN / ISO"
 10,Pneumatic Couplers,4,Brass / Plastic,"MINI-IQS Ø4mm/M6 or POC4/M6","https://tinyurl.com/53jsmu88"
 11,PTFE Tube,4,PTFE,"Ø2mm ID / Ø4mm OD","Amazon / AliExpress"
+
 
 

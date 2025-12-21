@@ -37,7 +37,7 @@ a platform for multi-material co-extrusion without mixing, purging, or waste.
 | 1x **Coldend** | SLM printed aluminum | Online SLM manufacturer, read the buildguide |
 | 1x **Back Bracing** | (optional) stainless steel sheet metal | Online sheet metal manufacturer, read the buildguide|
 | 4x **Heatbreak** V0.9 | M6 (bottom) and Ø6mm cylindrical (top), Go-To: Creality Ender 3 S1 Heatbreak | Local supplier or: https://tinyurl.com/mtvx7jhu "Bimetal Throat" |
-| 2x **Heatbreak** V0.91 | 2	Bimetal	M6 thread bottom with 5mm key / copper top | Local supplier or: [https://tinyurl.com/mtvx7jhu](https://tinyurl.com/tph7v3sw) "Chimera Heatbreak" |
+| 2x **Heatbreak** V0.91 | 2	Bimetal	M6 thread bottom with 5mm key / copper top | Local supplier or:https://tinyurl.com/4pekduk4 "Chimera Heatbreak" |
 | 4x **Heater** | Ø6mm x 20mm lenght, preferably. 24V 50W | Local supplier or: https://tinyurl.com/3yftytx4 "50W 24V" |
 | 1x **FAN** | 30x30x10mm Fan, preferably ball bearing and 24V | Local supplier or: https://tinyurl.com/23sj9bh6 "3010 24V" |
 | 1x **Nozzle** | Standard RepRap M6 | Local supplier |
